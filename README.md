@@ -1,7 +1,7 @@
 
 <img src="preview/view.jpg" width="820" height="546">
 
-### [Dentoo]() is a medic landing or multipage HTML template. ###
+### [Dentoo](https://dentoo.vercel.app/) is a medic landing or multipage HTML template. ###
 
 
 ```
