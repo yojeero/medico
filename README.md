@@ -1,7 +1,7 @@
 
 <img src="preview/pic.jpg">
 
-### [Medico](https://medico.vercel.app/) is a medic landing or multipage HTML template. ###
+### [Medico](https://medicoo.vercel.app/) is a medic landing or multipage HTML template. ###
 
 ```
 Features
